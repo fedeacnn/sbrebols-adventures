@@ -87,13 +87,14 @@ sbrebols/
 
 ## AUTOLOADS (SINGLETON)
 
-Registra questi tre come Autoload in project.godot:
+Registrati come Autoload in project.godot:
 
 | Nome | Script | Scopo |
 |------|--------|-------|
 | `GameManager` | scripts/core/GameManager.gd | stato globale, isole completate, chiavi raccolte, ciurma |
 | `AudioManager` | scripts/core/AudioManager.gd | play/stop musica e sfx da qualsiasi scena |
 | `SceneTransition` | scripts/core/SceneTransition.gd | transizioni animate tra scene |
+| `SaveSystem` | scripts/core/SaveSystem.gd | salvataggio/caricamento su user://save.json |
 
 ---
 
@@ -210,13 +211,11 @@ Dettaglio completo nel GDD. Riassunto operativo:
 
 | Scena | Minigioco | Stato |
 |-------|-----------|-------|
-| Island01_Intro | Dialogo Cambus Senior | da fare |
+| Island01_Intro | Dialogo Cambus Senior | ✅ fatto |
 | Island01_Stage1 | Infinite Runner (piantagione banane) | da fare |
 | Island01_Stage2 | Rhythm Parry (palestra) | da fare |
 | Island01_Boss | Bullet Hell (Camb-ONE lancia banane) | da fare |
 | Island01_Redemption | Cutscene dialogo | da fare |
-
-**Inizia da qui:** scaffolding del progetto → GameManager → SceneTransition → Island01_Intro con DialogueSystem funzionante.
 
 ---
 
@@ -243,11 +242,11 @@ Prefissi commit: `feat:` nuova funzionalità, `fix:` bug, `refactor:` pulizia co
 
 ## PRIORITÀ DI SVILUPPO
 
-1. Scaffolding progetto Godot + struttura cartelle
-2. GameManager, AudioManager, SceneTransition (autoloads)
-3. SaveSystem base
-4. DialogueSystem + DialogueBox UI
-5. Island01_Intro (primo dialogo giocabile)
+1. ✅ Scaffolding progetto Godot + struttura cartelle
+2. ✅ GameManager, AudioManager, SceneTransition, SaveSystem (autoloads)
+3. ✅ SaveSystem base
+4. ✅ DialogueSystem + DialogueBox UI
+5. ✅ MainMenu + Island01_Intro (dialogo giocabile)
 6. InfiniteRunner (Tappa 1 Calebres)
 7. RhythmParry (Tappa 2 Calebres)
 8. BulletHell (Boss Camb-ONE)

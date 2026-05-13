@@ -1,0 +1,37 @@
+{
+  "cutscene_id": "intro",
+  "panels": [
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_01.png",
+      "text": "Sbrebols era il pirata più lento dei Dieci Mari."
+    },
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_02.png",
+      "text": "Non cercava avventure. Ma non riusciva mai a ignorare qualcosa di strano."
+    },
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_03.png",
+      "text": "Nei Dieci Mari, si diceva che la Velos Coguaros fosse inaffondabile."
+    },
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_04.png",
+      "text": "Non riuscì a resistere."
+    },
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_05.png",
+      "text": "Nel cuore della nave trovò qualcosa di straordinario."
+    },
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_06.png",
+      "text": "Il forziere era vuoto. Ma dentro c'era una mappa... e dieci coordinate sconosciute."
+    },
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_07.png",
+      "text": "Dieci isole. Dieci chiavi. Sbrebols non riusciva a smettere di pensarci."
+    },
+    {
+      "image": "res://assets/images/cutscenes/intro/panel_08.png",
+      "text": "Qualcuno, nell'ombra, lo stava già aspettando."
+    }
+  ]
+}

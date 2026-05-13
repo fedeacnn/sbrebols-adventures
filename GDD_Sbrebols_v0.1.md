@@ -15,21 +15,35 @@
 
 ## STORIA
 
+### Titolo narrativo
+**Velos Coguaros: L'Inganno di Cozzus**
+
 ### Contesto
-La Velos Coguaros era la nave più veloce e temuta dei 10 mari, comandata dalla ciurma più rispettata di tutti i tempi. Un giorno, i membri della ciurma litigarono violentemente tra loro e smisero di parlarsi. Ognuno si rifugiò sulla propria isola, diventando col tempo cattivo e spietato.
+La Velos Coguaros era la nave più leggendaria dei Dieci Mari. I suoi dieci membri erano i pirati più temuti della storia. Un giorno litigarono violentemente e si separarono, esiliandosi ognuno su un'isola diversa di cui diventarono sovrani assoluti.
 
-### Inizio
-Sbrebols, un giovane pirata, trova il relitto della Velos Coguaros. Esplorando la nave scopre:
-- Un forziere con 10 toppe per altrettante chiavi
-- Una mappa del tesoro che indica "Il Tesoro della Ciurma"
-
-Incuriosito e affascinato, Sbrebols parte sulla sua barca a vela alla ricerca delle 10 chiavi, disperse nelle 10 isole dove si sono rifugiati gli ex membri della ciurma.
-
-### Arco narrativo
-In ogni isola Sbrebols affronta un ex membro della ciurma. Dopo averlo sconfitto, il personaggio si redime e si unisce alla sua avventura. Al termine delle 10 isole, la leggendaria ciurma della Velos Coguaros sarà ricostituita e il tesoro finalmente aperto.
+### Il piano silenzioso
+Cozzus, genio della strategia e membro della ciurma, non ha mai accettato la fine. Sa però che non può riportarli insieme da solo: l'orgoglio li porterebbe a uccidersi a vicenda. Ha bisogno di un elemento esterno, imprevedibile. Qualcuno come Sbrebols.
 
 ### Protagonista
-**Sbrebols** — giovane pirata curioso e intrepido. Carattere determinato ma amichevole, capace di far cambiare idea anche ai più ostinati.
+**Sbrebols** — un bradipo pirata che ama la solitudine. Curioso, tranquillo, apparentemente improbabile come eroe. Viene spinto invisibilmente da Cozzus verso il relitto della Velos Coguaros, ignaro di essere l'attore principale nel suo teatro.
+
+### Inizio
+Sbrebols "inciampa" nel relitto della Velos Coguaros. Esplorando la nave scopre:
+- Un forziere con 10 toppe per altrettante chiavi
+- Una mappa con dieci coordinate: isole fantasma che non esistono sulle carte nautiche
+
+Spinto da una curiosità che non sapeva di avere, parte alla ricerca delle 10 isole.
+
+### Arco narrativo — Il Reclutamento della Forza
+Ogni isola è dominata da un ex membro della Velos Coguaros. Sbrebols arriva, affronta il boss in una serie di sfide, lo sconfigge. Il pirata sconfitto riconosce il valore di Sbrebols e si unisce alla sua imbarcazione. Quella che era la barca di un pirata solitario diventa, isola dopo isola, il vascello che trasporta i più grandi guerrieri del mondo.
+
+### Il gran finale — L'isola di Cozzus
+La decima isola è il regno di Cozzus, l'ultimo boss. La battaglia è la più dura: Cozzus ha studiato e guidato Sbrebols per tutto il tempo e conosce ogni sua mossa. Quando Sbrebols riesce a batterlo, Cozzus scoppia in una risata fragorosa e rivela la verità davanti agli altri nove pirati:
+
+*"Non hai trovato quella mappa per caso, Sbrebols. Eri l'unico in grado di riportarci tutti qui, l'unico che potevamo rispettare senza sentirci umiliati dai nostri vecchi compagni."*
+
+### Il tesoro della Velos Coguaros
+Con la ciurma riunita, il gruppo torna al relitto iniziale. I dieci pirati e Sbrebols usano le loro abilità combinate per aprire il forziere — quello che nessuno di loro, da solo, avrebbe mai potuto scoperchiare. Il contenuto segna l'inizio di una nuova era per i Dieci Mari.
 
 ---
 
@@ -91,15 +105,78 @@ Sbrebols si avvicina a Camb-ONE ancora a terra. Dialogo breve: il boss confuso r
 
 ---
 
-*[Isola 2 — in definizione]*
-*[Isola 3 — in definizione]*
-*[Isola 4 — in definizione]*
-*[Isola 5 — in definizione]*
-*[Isola 6 — in definizione]*
-*[Isola 7 — in definizione]*
-*[Isola 8 — in definizione]*
-*[Isola 9 — in definizione]*
-*[Isola 10 — in definizione]*
+---
+
+### ISOLA 2 — DA NOMINARE
+**Boss:** Pippos — l'Architetto
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 3 — DA NOMINARE
+**Boss:** Perus — l'Investigatore Armato
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 4 — DA NOMINARE
+**Boss:** Pittuz — il Genio
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 5 — DA NOMINARE
+**Boss:** Megus — il Bevitore Matematico
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 6 — DA NOMINARE
+**Boss:** Magis — il Biciclettaro Calciatore
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 7 — DA NOMINARE
+**Boss:** Giggin — lo Chef che tifa Napoli
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 8 — DA NOMINARE
+**Boss:** Fedus — Re dei Cocomeri e della Pallavolo
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 9 — DA NOMINARE
+**Boss:** Costa — Circondato da Belle Ragazze
+**Tema:** da definire
+**Chiave:** da definire
+*[in definizione]*
+
+---
+
+### ISOLA 10 — DA NOMINARE
+**Boss:** Cozzus — il Burattinaio *(boss finale)*
+**Tema:** da definire
+**Chiave:** da definire
+**Nota:** Dopo la sconfitta Cozzus rivela la verità sul piano. Scena finale con apertura del forziere e riunione della ciurma.
+*[in definizione]*
 
 ---
 

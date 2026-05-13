@@ -1,0 +1,122 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/ui/MainMenu.gd" id="1"]
+
+[node name="MainMenu" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Background" type="ColorRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.05, 0.1, 0.18, 1)
+
+[node name="UI" type="CanvasLayer" parent="."]
+layer = 1
+
+[node name="TitleLabel" type="Label" parent="UI"]
+anchor_left = 0.0
+anchor_top = 0.15
+anchor_right = 1.0
+anchor_bottom = 0.27
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 44
+theme_override_colors/font_color = Color(1, 0.85, 0.3, 1)
+horizontal_alignment = 1
+vertical_alignment = 1
+text = "Sbrebols Adventures"
+
+[node name="SubtitleLabel" type="Label" parent="UI"]
+anchor_left = 0.05
+anchor_top = 0.27
+anchor_right = 0.95
+anchor_bottom = 0.36
+grow_horizontal = 2
+grow_vertical = 2
+autowrap_mode = 3
+theme_override_font_sizes/font_size = 20
+theme_override_colors/font_color = Color(0.85, 0.75, 0.55, 1)
+horizontal_alignment = 1
+vertical_alignment = 1
+text = "e il Tesoro della Ciurma"
+
+[node name="ButtonContainer" type="VBoxContainer" parent="UI"]
+anchor_left = 0.15
+anchor_top = 0.50
+anchor_right = 0.85
+anchor_bottom = 0.74
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 20
+
+[node name="PlayButton" type="Button" parent="UI/ButtonContainer"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 80)
+theme_override_font_sizes/font_size = 26
+text = "Gioca"
+
+[node name="SettingsButton" type="Button" parent="UI/ButtonContainer"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 80)
+theme_override_font_sizes/font_size = 26
+text = "Impostazioni"
+
+[node name="SettingsPanel" type="Panel" parent="UI"]
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBox" type="VBoxContainer" parent="UI/SettingsPanel"]
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 40.0
+offset_top = 100.0
+offset_right = -40.0
+offset_bottom = -100.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 24
+
+[node name="SettingsTitle" type="Label" parent="UI/SettingsPanel/VBox"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 32
+theme_override_colors/font_color = Color(1, 0.85, 0.3, 1)
+horizontal_alignment = 1
+text = "Impostazioni"
+
+[node name="MusicLabel" type="Label" parent="UI/SettingsPanel/VBox"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 22
+text = "Musica"
+
+[node name="MusicSlider" type="HSlider" parent="UI/SettingsPanel/VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 60)
+max_value = 1.0
+step = 0.05
+value = 1.0
+
+[node name="SFXLabel" type="Label" parent="UI/SettingsPanel/VBox"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 22
+text = "Effetti sonori"
+
+[node name="SFXSlider" type="HSlider" parent="UI/SettingsPanel/VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 60)
+max_value = 1.0
+step = 0.05
+value = 1.0
+
+[node name="CloseButton" type="Button" parent="UI/SettingsPanel/VBox"]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 80)
+theme_override_font_sizes/font_size = 22
+text = "Chiudi"

@@ -4,13 +4,17 @@ signal transition_finished
 
 const FADE_DURATION: float = 0.4
 
-@onready var _overlay: ColorRect = $Overlay
-@onready var _tween: Tween = null
+var _overlay: ColorRect
+var _tween: Tween = null
 
 
 func _ready() -> void:
+	layer = 10
+	_overlay = ColorRect.new()
 	_overlay.color = Color(0, 0, 0, 0)
 	_overlay.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	_overlay.set_anchors_preset(Control.PRESET_FULL_RECT)
+	add_child(_overlay)
 
 
 func change_scene(path: String) -> void:

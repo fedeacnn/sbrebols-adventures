@@ -13,7 +13,7 @@ func load_dialogue(path: String) -> void:
 	if file == null:
 		push_error("DialogueSystem: file not found — %s" % path)
 		return
-	var result := JSON.parse_string(file.get_as_text())
+	var result: Variant = JSON.parse_string(file.get_as_text())
 	file.close()
 	if result == null or not result.has("lines"):
 		push_error("DialogueSystem: invalid dialogue JSON — %s" % path)

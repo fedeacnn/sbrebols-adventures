@@ -14,7 +14,7 @@ func _ready() -> void:
 	add_child(_sfx_player)
 
 
-func play_music(stream: AudioStream, loop: bool = true) -> void:
+func play_music(stream: AudioStream, _loop: bool = true) -> void:
 	if _music_player.stream == stream and _music_player.playing:
 		return
 	_music_player.stream = stream

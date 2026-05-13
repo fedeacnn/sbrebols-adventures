@@ -22,7 +22,7 @@ func load_game() -> void:
 	var raw := file.get_as_text()
 	file.close()
 
-	var result := JSON.parse_string(raw)
+	var result: Variant = JSON.parse_string(raw)
 	if result == null:
 		return
 
@@ -30,6 +30,10 @@ func load_game() -> void:
 	GameManager.crew_members = result.get("crew_members", [])
 	GameManager.current_island = result.get("current_island", 0)
 	GameManager.islands_completed = result.get("islands_completed", [])
+
+
+func has_save() -> bool:
+	return FileAccess.file_exists(SAVE_PATH)
 
 
 func delete_save() -> void:
