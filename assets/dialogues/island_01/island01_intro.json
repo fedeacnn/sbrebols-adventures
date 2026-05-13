@@ -1,0 +1,29 @@
+{
+  "dialogue_id": "island01_intro",
+  "lines": [
+    {
+      "speaker": "Cambus Senior",
+      "text": "Ah, giovane pirata! Non molti si avventurano fin qui sull'isola di Calebres."
+    },
+    {
+      "speaker": "Sbrebols",
+      "text": "Sto cercando una chiave. A forma di banana, per essere precisi."
+    },
+    {
+      "speaker": "Cambus Senior",
+      "text": "La chiave... allora cerchi Camb-ONE. Un tempo era il più forte della ciurma. Ora non fa altro che mangiare banane e sollevare pesi."
+    },
+    {
+      "speaker": "Sbrebols",
+      "text": "Come faccio a raggiungerlo?"
+    },
+    {
+      "speaker": "Cambus Senior",
+      "text": "Prima devi attraversare la sua piantagione. I gorillini te la faranno sudare. E poi... la palestra del Re. Solo dopo potrai sfidarlo."
+    },
+    {
+      "speaker": "Sbrebols",
+      "text": "Ci penso io. Grazie, vecchio!"
+    }
+  ]
+}
